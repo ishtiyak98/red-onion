@@ -14,9 +14,9 @@ const Header = () => {
           <div className="font-semibold hover:text-red-500 hover:cursor-pointer">
             <BsCart3 size={"1.2em"}></BsCart3>
           </div>
-          <div className="font-semibold text-slate-700 hover:text-red-500 hover:cursor-pointer">
+          <Link to={"/login"} className="font-semibold text-slate-700 hover:text-red-500 hover:cursor-pointer">
             Login
-          </div>
+          </Link>
           <Link to={"/signup"} className="text-white font-semibold border-2 border-red-500 hover:border-2 hover:bg-white hover:text-slate-700 hover:cursor-pointer bg-red-500 px-6 py-1.5 rounded-full">
               Signup
           </Link>
