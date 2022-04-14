@@ -5,7 +5,7 @@ import { BsCart3 } from "react-icons/bs";
 
 const Header = () => {
   return (
-    <nav className="bg-white text-black mb-12 py-4 px-4 sm:px-4 lg:px-20">
+    <nav className="bg-white text-black py-6 px-4 sm:px-4 lg:px-20">
       <div className="flex justify-between">
         <Link to={"/"}>
           <img src={logo} alt="" width={140} />

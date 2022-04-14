@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    backgroundImage: {
+      'main-banner': "url('./src/assets/bannerbackground.png')",
+    },
   },
   plugins: [
     require('flowbite/plugin')
