@@ -1,45 +1,45 @@
 [
     {
         "id": 1,
-        "Name":"Begel and cream cheese",
+        "name":"Begel and cream cheese",
         "img" : "https://i.ibb.co/x1djtrt/breakfast4.png",
-        "Price" : 6.99,
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "price" : 6.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
     },
     {
         "id": 2,
-        "Name":"Breakfast Sandwich",
+        "name":"Breakfast Sandwich",
         "img" : "https://i.ibb.co/fvN90b2/breakfast2.png",
-        "Price" : 9.99,
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "price" : 9.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
     },
     {
         "id": 3,
-        "Name":"Baked Chicken",
+        "name":"Baked Chicken",
         "img" : "https://i.ibb.co/YjnRQ9M/breakfast3.png",
-        "Price" : 10.99,
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "price" : 10.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
     },
     {
         "id": 4,
-        "Name":"Eggs Benedict",
+        "name":"Eggs Benedict",
         "img" : "https://i.ibb.co/wdr9hH3/breakfast1.png",
-        "Price" : 8.99,
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "price" : 8.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
     },
     {
         "id": 5,
-        "Name":"Toast Croissant Fried Egg",
+        "name":"Toast Croissant Fried Egg",
         "img" : "https://i.ibb.co/Dgv1DNj/breakfast6.png",
-        "Price" : 19.99,
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "price" : 19.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
     },
     {
         "id": 6,
-        "Name":"Fried Egg and Toast Brunch",
+        "name":"Fried Egg and Toast Brunch",
         "img" : "https://i.ibb.co/7nscL06/breakfast5.png",
-        "Price" : 3.99,
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "price" : 3.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
     }
     
 ]

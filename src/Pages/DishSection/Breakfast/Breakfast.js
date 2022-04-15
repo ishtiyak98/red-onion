@@ -1,19 +1,22 @@
 import React, { useEffect, useState } from 'react';
+import BreakfastCard from './BreakfastCard/BreakfastCard';
 
 const Breakfast = () => {
-    const [breakFast, setBreakFast]=useState([]);
+    const [breakFastDishes, setBreakFastDishes]=useState([]);
 
     useEffect( ()=>{
         fetch("breakfast.json")
         .then(res=> res.json())
-        .then(data => setBreakFast(data));
+        .then(data => setBreakFastDishes(data));
     } ,[]);
 
-    console.log(breakFast);
+    console.log(breakFastDishes);
 
     return (
-        <div>
-           Braekfas 
+        <div className="grid grid-cols-3 gap-x-28 gap-y-5 lg:px-44 lg:py-10">
+           {
+               breakFastDishes.map(breakFastDish => <BreakfastCard key={breakFastDish.id}  breakFastDish={breakFastDish}></BreakfastCard>)
+           }
         </div>
     );
 };
