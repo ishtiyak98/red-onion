@@ -1,7 +1,10 @@
 .main-banner{
     background-image: url('../../../assets/bannerbackground.png');
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: contain;
     background-color: #FCF4E0;
-    
+}
+
+.bg-container{
+    background-color: #FCF4E0;
 }

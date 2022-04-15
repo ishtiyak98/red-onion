@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name":"Healthy Meal Plan",
+        "img" : "https://i.ibb.co/QnjkQpX/lunch6.png",
+        "price" : 23.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+        "id": 2,
+        "name":"Fried Chicken Bento",
+        "img" : "https://i.ibb.co/W00t9dH/lunch5.png",
+        "price" : 9.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+        "id": 3,
+        "name":"Tarragon-Rubbed-Salmon",
+        "img" : "https://i.ibb.co/chGHVJ2/lunch3.png",
+        "price" : 6.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+        "id": 4,
+        "name":"Indian Lunch",
+        "img" : "https://i.ibb.co/56WWS9y/lunch4.png",
+        "price" : 8.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+        "id": 5,
+        "name":"Beef Steak",
+        "img" : "https://i.ibb.co/fvNPMP7/lunch1.png",
+        "price" : 15.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+        "id": 6,
+        "name":"Honey-Soy-Glazed Salmon with Peppers",
+        "img" : "https://i.ibb.co/9886yXZ/lunch2.png",
+        "price" : 7.99,
+        "details": "Lorem Ipsum is simply dummy text of the printing"
+    }
+    
+]
